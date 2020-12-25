@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\L1\L1.cpp(107,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\L1\L1.cpp(128,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\L1\L1.cpp(145,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\UnitTest1\UnitTest1.cpp(58,22): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\UnitTest1\UnitTest1.cpp(85,22): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\UnitTest1\UnitTest1.cpp(111,22): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\UnitTest1\UnitTest1.cpp(125,22): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\UnitTest1\UnitTest1.cpp(151,22): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\UnitTest1\UnitTest1.cpp(178,22): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\UnitTest1\UnitTest1.cpp(203,22): warning C4101: exception: неиспользованная локальная переменная
+  LINK : не найден или не выполнена сборка C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\Debug\UnitTest1.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\Debug\UnitTest1.lib и объект C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Adem\Desktop\АИСТРД лабы 3 сем\L1\L1\Debug\UnitTest1.dll
